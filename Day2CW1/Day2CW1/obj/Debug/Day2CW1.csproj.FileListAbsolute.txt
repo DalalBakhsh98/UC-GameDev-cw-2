@@ -1,0 +1,8 @@
+C:\Users\dalal\OneDrive\Desktop\Game Dev\GD Day2\Day2CW1\Day2CW1\bin\Debug\Day2CW1.exe.config
+C:\Users\dalal\OneDrive\Desktop\Game Dev\GD Day2\Day2CW1\Day2CW1\bin\Debug\Day2CW1.exe
+C:\Users\dalal\OneDrive\Desktop\Game Dev\GD Day2\Day2CW1\Day2CW1\bin\Debug\Day2CW1.pdb
+C:\Users\dalal\OneDrive\Desktop\Game Dev\GD Day2\Day2CW1\Day2CW1\obj\Debug\Day2CW1.csproj.AssemblyReference.cache
+C:\Users\dalal\OneDrive\Desktop\Game Dev\GD Day2\Day2CW1\Day2CW1\obj\Debug\Day2CW1.csproj.SuggestedBindingRedirects.cache
+C:\Users\dalal\OneDrive\Desktop\Game Dev\GD Day2\Day2CW1\Day2CW1\obj\Debug\Day2CW1.csproj.CoreCompileInputs.cache
+C:\Users\dalal\OneDrive\Desktop\Game Dev\GD Day2\Day2CW1\Day2CW1\obj\Debug\Day2CW1.exe
+C:\Users\dalal\OneDrive\Desktop\Game Dev\GD Day2\Day2CW1\Day2CW1\obj\Debug\Day2CW1.pdb
